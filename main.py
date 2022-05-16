@@ -326,3 +326,4 @@ first.finished_courses += ["Git"]
 first.finished_courses += ["Tit"]
 print(first.surname)
 print(first.finished_courses)
+

@@ -327,3 +327,4 @@ first.finished_courses += ["Tit"]
 print(first.surname)
 print(first.finished_courses)
 
+print("hello, git")
